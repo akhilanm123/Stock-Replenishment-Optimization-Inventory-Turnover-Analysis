@@ -1,0 +1,2 @@
+# Stock-Replenishment-Optimization-Inventory-Turnover-Analysis
+This project focuses on optimizing inventory replenishment cycles and improving stock turnover using historical sales and inventory movement data. Simulated for a retail chain handling 10,000+ SKUs across multiple locations, it aims to identify stock imbalance, streamline reordering strategies, and minimize stockouts and holding costs.
